@@ -1,0 +1,112 @@
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+.img-cover {
+  width: 50%;
+  }
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+
+
+}
+
+ul {
+  list-style-type: circle;
+  padding: 20px;
+  font-size: 50px;
+  color: white;
+}
+
+li {
+  text-align: left;
+  padding: 5px;
+  font-size: 30px;
+  color: white;
+}
+
+.title {
+  padding: 20px;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.learn-more {
+  padding: 50px;
+
+}
+button {
+  font-family: inherit;
+  font-weight: normal;
+
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h3 {
+  padding: 50px;
+}
+
+.subtext {
+  padding: 20px;
+  font-size: 40px;
+
+}
+
+.infotext {
+  padding: 20px;
+  font-size: 30px;
+
+}
+
+.bottomdiv {
+  background-color: #C5763A;
+}
+
+.bottomdivtitle {
+  padding: 20px;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.bottomdivsubtext {
+  padding: 20px;
+  font-size: 40px;
+  color: white;
+}
+
+.bottomdivinfotext {
+  padding: 20px;
+  font-size: 30px;
+  color: white;
+}
+
+.middlediv {
+  background-color: #3A89C5;
+}
+
+.middledivtitle {
+  padding: 20px;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.middledivsubtext {
+  padding: 20px;
+  font-size: 40px;
+  color: white;
+}
+
+.middledivinfotext {
+  padding: 20px;
+  font-size: 30px;
+  color: white;
+}
+
