@@ -2,6 +2,9 @@
 .img-cover {
   width: 50%;
   }
+.middle-div-img-cover {
+  width: 20%;
+}
 @media (min-width: 992px) {
   .rounded-lg-3 { border-radius: .3rem; }
 
@@ -11,20 +14,20 @@
 ul {
   list-style-type: circle;
   padding: 20px;
-  font-size: 0.875em;
+  font-size: 1.8em;
   color: white;
 }
 
 li {
   text-align: left;
   padding: 5px;
-  font-size: 0.875em;
+  font-size: 1.5em;
   color: white;
 }
 
 .title {
   padding: 20px;
-  font-size: 2em;
+  font-size: 2.875em;
   font-weight: bold;
 }
 
@@ -56,31 +59,31 @@ h3 {
 
 .infotext {
   padding: 0.5em;
-  font-size: 0.875em;
+  font-size: 1.5em;
 
 }
 
 .bottomdiv {
-  background-color: #C5763A;
+  background-color: black;
 }
 
 .bottomdivtitle {
   padding: 0.5em;
-  font-size: 2em;
+  font-size: 2.875em;
   font-weight: bold;
   color: white;
 }
 
 .bottomdivsubtext {
   padding: 0.5em;
-  font-size: 1em;
+  font-size: 1.5em;
   color: white;
   text-align: left;
 }
 
 .bottomdivinfotext {
   padding: 0.5em;
-  font-size: 0.875em;
+  font-size: 1.5em;
   color: white;
   text-align: left;
 }
@@ -120,3 +123,4 @@ h3 {
 p {
   font-family:Arial
 }
+
