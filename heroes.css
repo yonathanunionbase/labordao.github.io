@@ -1,9 +1,12 @@
 
 .img-cover {
-  width: 50%;
+  width: 100%;
+  max-width: 70em;
+
   }
 .middle-div-img-cover {
-  width: 20%;
+  width: 60%;
+  max-width: 10em;
 }
 @media (min-width: 992px) {
   .rounded-lg-3 { border-radius: .3rem; }
@@ -33,7 +36,7 @@ li {
 
 .learn-more {
   padding: 0.5em;
-  text-align: left;
+  text-align: center;
   font-size: 0.875em;
 
 }
@@ -112,7 +115,7 @@ h3 {
 }
 
 .social-media {
-  text-align: left;
+  text-align: center;
   
 }
 
